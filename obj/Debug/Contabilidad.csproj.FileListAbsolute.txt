@@ -1,0 +1,254 @@
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\bin\Debug\Contabilidad.exe.config
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\bin\Debug\Contabilidad.exe
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\bin\Debug\Contabilidad.pdb
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\bin\Debug\MySql.Data.dll
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\bin\Debug\Google.Protobuf.dll
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\bin\Debug\Renci.SshNet.dll
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\bin\Debug\MySql.Data.xml
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csprojAssemblyReference.cache
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\obj\Debug\Contabilidad.Properties.Resources.resources
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.GenerateResource.cache
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.CopyComplete
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\obj\Debug\Contabilidad.exe
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\obj\Debug\Contabilidad.pdb
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\obj\Debug\Contabilidad.AgregarAsiento.resources
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\obj\Debug\Contabilidad.LibroDiario.resources
+D:\Documents\Visual Studio Projects\Contabilidad\Contabilidad\bin\Debug\IrisSkin2.dll
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\bin\Debug\Contabilidad.exe.config
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\bin\Debug\Contabilidad.exe
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\bin\Debug\Contabilidad.pdb
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\bin\Debug\MySql.Data.dll
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\bin\Debug\Google.Protobuf.dll
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\bin\Debug\Renci.SshNet.dll
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\bin\Debug\MySql.Data.xml
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csprojAssemblyReference.cache
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.AgregarAsiento.resources
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.LibroDiario.resources
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.Properties.Resources.resources
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.GenerateResource.cache
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.CopyComplete
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.exe
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.pdb
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\bin\Debug\Contabilidad.exe.config
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\bin\Debug\Contabilidad.exe
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\bin\Debug\Contabilidad.pdb
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\bin\Debug\IrisSkin2.dll
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\bin\Debug\MySql.Data.dll
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\bin\Debug\Google.Protobuf.dll
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\bin\Debug\Renci.SshNet.dll
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\bin\Debug\MySql.Data.xml
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.AgregarAsiento.resources
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.LibroDiario.resources
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.Properties.Resources.resources
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.CopyComplete
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.exe
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.pdb
+C:\Users\pc\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.LibroMayor.resources
+C:\Users\valen\Desktop\Contabilidad\Contabilidad\obj\Debug\Contabilidad.LibroMayor.resources
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\bin\Debug\Contabilidad.exe.config
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\bin\Debug\Contabilidad.exe
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\bin\Debug\Contabilidad.pdb
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\bin\Debug\IrisSkin2.dll
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\bin\Debug\MySql.Data.dll
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\bin\Debug\Google.Protobuf.dll
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\bin\Debug\Renci.SshNet.dll
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\bin\Debug\MySql.Data.xml
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\obj\Debug\Contabilidad.AgregarAsiento.resources
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\obj\Debug\Contabilidad.LibroDiario.resources
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\obj\Debug\Contabilidad.LibroMayor.resources
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\obj\Debug\Contabilidad.Properties.Resources.resources
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.CopyComplete
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\obj\Debug\Contabilidad.exe
+C:\Users\pc\Desktop\Vale\Contabilidad\Contabilidad\obj\Debug\Contabilidad.pdb
+C:\Users\gonza\OneDrive - alumnos.frm.utn.edu.ar\Escritorio\facultad\UTN\tercer semestre\laboratorio\trabajo final\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.exe
+C:\Users\gonza\OneDrive - alumnos.frm.utn.edu.ar\Escritorio\facultad\UTN\tercer semestre\laboratorio\trabajo final\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.pdb
+C:\Users\gonza\OneDrive - alumnos.frm.utn.edu.ar\Escritorio\facultad\UTN\tercer semestre\laboratorio\trabajo final\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.csproj.AssemblyReference.cache
+C:\Users\gonza\OneDrive - alumnos.frm.utn.edu.ar\Escritorio\facultad\UTN\tercer semestre\laboratorio\trabajo final\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.csproj.SuggestedBindingRedirects.cache
+C:\Users\gonza\OneDrive - alumnos.frm.utn.edu.ar\Escritorio\facultad\UTN\tercer semestre\laboratorio\trabajo final\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.AgregarAsiento.resources
+C:\Users\gonza\OneDrive - alumnos.frm.utn.edu.ar\Escritorio\facultad\UTN\tercer semestre\laboratorio\trabajo final\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.LibroDiario.resources
+C:\Users\gonza\OneDrive - alumnos.frm.utn.edu.ar\Escritorio\facultad\UTN\tercer semestre\laboratorio\trabajo final\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.LibroMayor.resources
+C:\Users\gonza\OneDrive - alumnos.frm.utn.edu.ar\Escritorio\facultad\UTN\tercer semestre\laboratorio\trabajo final\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.Properties.Resources.resources
+C:\Users\gonza\OneDrive - alumnos.frm.utn.edu.ar\Escritorio\facultad\UTN\tercer semestre\laboratorio\trabajo final\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.csproj.GenerateResource.cache
+C:\Users\gonza\OneDrive - alumnos.frm.utn.edu.ar\Escritorio\facultad\UTN\tercer semestre\laboratorio\trabajo final\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.csproj.CoreCompileInputs.cache
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.csproj.AssemblyReference.cache
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.csproj.SuggestedBindingRedirects.cache
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.exe.config
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.AgregarAsiento.resources
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.LibroDiario.resources
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.LibroMayor.resources
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.Properties.Resources.resources
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.csproj.GenerateResource.cache
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.csproj.CoreCompileInputs.cache
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.exe
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.pdb
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\Contabilidad.exe.config
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\Contabilidad.exe
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\Contabilidad.pdb
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\netstandard.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.AppContext.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Collections.Concurrent.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Collections.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Collections.NonGeneric.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Collections.Specialized.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.ComponentModel.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.ComponentModel.Primitives.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Console.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Data.Common.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Diagnostics.Contracts.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Diagnostics.Debug.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Diagnostics.Process.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Diagnostics.Tools.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Diagnostics.Tracing.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Drawing.Primitives.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Dynamic.Runtime.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Globalization.Calendars.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Globalization.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Globalization.Extensions.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.IO.Compression.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.IO.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.IO.FileSystem.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.IO.IsolatedStorage.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.IO.Pipes.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Linq.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Linq.Expressions.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Linq.Parallel.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Linq.Queryable.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Net.Http.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Net.NameResolution.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Net.NetworkInformation.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Net.Ping.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Net.Primitives.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Net.Requests.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Net.Security.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Net.Sockets.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Net.WebSockets.Client.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Net.WebSockets.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.ObjectModel.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Reflection.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Reflection.Extensions.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Reflection.Primitives.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Resources.Reader.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Resources.ResourceManager.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Resources.Writer.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Runtime.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Runtime.Extensions.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Runtime.Handles.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Runtime.InteropServices.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Runtime.Numerics.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Security.Claims.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Security.Principal.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Security.SecureString.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Text.Encoding.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Text.RegularExpressions.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Threading.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Threading.Overlapped.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Threading.Tasks.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Threading.Thread.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Threading.ThreadPool.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Threading.Timer.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.ValueTuple.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Xml.ReaderWriter.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Xml.XDocument.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Xml.XmlDocument.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Xml.XmlSerializer.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Xml.XPath.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\BouncyCastle.Crypto.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\BouncyCastle.Cryptography.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\Google.Protobuf.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\MySql.Data.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\Renci.SshNet.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.IO.Pipelines.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Memory.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Numerics.Vectors.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Runtime.Loader.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Security.AccessControl.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Security.Permissions.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Security.Principal.Windows.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Text.Json.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\Ubiety.Dns.Core.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\Zstandard.Net.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\ZstdSharp.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\BouncyCastle.Cryptography.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\Google.Protobuf.pdb
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\Google.Protobuf.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\MySql.Data.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\Renci.SshNet.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.IO.Pipelines.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Memory.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Numerics.Vectors.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Security.AccessControl.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Security.Permissions.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Security.Principal.Windows.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Text.Json.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\obj\Debug\Contabilidad.csproj.CopyComplete
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\mongocrypt.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\AWSSDK.Core.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\AWSSDK.SecurityToken.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\DnsClient.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\MongoDB.Bson.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\MongoDB.Driver.Core.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\MongoDB.Driver.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\SharpCompress.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\Snappier.dll
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\AWSSDK.Core.pdb
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\AWSSDK.Core.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\AWSSDK.SecurityToken.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\DnsClient.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\MongoDB.Bson.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\MongoDB.Driver.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\MongoDB.Driver.Core.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\Snappier.xml
+C:\trabajo final laboratorio\Programa libro diario y mayor\ContabilidadDefinitivo\Contabilidad\bin\Debug\System.Text.Encoding.CodePages.xml
